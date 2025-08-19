@@ -2,9 +2,9 @@
 
 # Project Overview
 
-**Project Title:** Industry Layoffs Analysis
-**Level:** Beginner
-**Database:** layoffs.csv
+**Project Title:** Industry Layoffs Analysis   
+**Level:** Beginner   
+**Database:** layoffs.csv   
 
 
 This project explores global layoffs data from 2020 to 2023, focusing on identifying patterns across industries, companies, and years. Using MySQL for data cleaning and transformation, and Python (Jupyter Notebook) for visualization, the goal is to uncover insights into which sectors and companies were most impacted, when major spikes happened, and how funding or company stage influenced workforce cuts.
@@ -54,13 +54,13 @@ The cleaned dataset was further explored in an IPython Notebook to generate visu
 - Trend Overview → Rolling totals and monthly breakdowns showing when spikes occurred.
 
 📂 Project Structure
-├── data/                 # Raw dataset
-├── sql/                  # MySQL cleaning and analysis scripts
-│   ├── data_cleaning.sql
-│   ├── exploratory.sql
-├── notebooks/            # Jupyter Notebooks for visualization
-│   ├── layoffs_analysis.ipynb
-├── README.md             # Project documentation
+├── data/                 # Raw dataset    
+├── sql/                  # MySQL cleaning and analysis scripts   
+│   ├── data_cleaning.sql   
+│   ├── exploratory.sql   
+├── notebooks/            # Jupyter Notebooks for visualization   
+│   ├── layoffs_analysis.ipynb    
+├── README.md             # Project documentation   
 
 ## Conclusion
 
