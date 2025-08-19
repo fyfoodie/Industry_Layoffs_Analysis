@@ -1,4 +1,4 @@
-<img width="989" height="590" alt="download" src="https://github.com/user-attachments/assets/af8e7c54-2640-4ce3-898a-9496cb36a831" /><img width="989" height="590" alt="download" src="https://github.com/user-attachments/assets/d1ff3505-b1e9-4716-97c1-47c8279221e4" /># Industry_Layoffs_Analysis
+# Industry_Layoffs_Analysis
 
 # Project Overview
 
