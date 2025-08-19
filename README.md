@@ -1,13 +1,16 @@
-# Industry_Layoffs_Analysis
+<img width="989" height="590" alt="download" src="https://github.com/user-attachments/assets/af8e7c54-2640-4ce3-898a-9496cb36a831" /><img width="989" height="590" alt="download" src="https://github.com/user-attachments/assets/d1ff3505-b1e9-4716-97c1-47c8279221e4" /># Industry_Layoffs_Analysis
 
 # Project Overview
 
 **Project Title:** Industry Layoffs Analysis   
-**Level:** Beginner   
 **Database:** layoffs.csv   
 
 
 This project explores global layoffs data from 2020 to 2023, focusing on identifying patterns across industries, companies, and years. Using MySQL for data cleaning and transformation, and Python (Jupyter Notebook) for visualization, the goal is to uncover insights into which sectors and companies were most impacted, when major spikes happened, and how funding or company stage influenced workforce cuts.
+
+
+<img width="989" height="590" alt="download" src="https://github.com/user-attachments/assets/e9fea274-37ce-45ab-a935-072ffcac430b" />
+
 
 ## Tech Stack
 
