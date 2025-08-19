@@ -56,6 +56,7 @@ The cleaned dataset was further explored in an IPython Notebook to generate visu
 - Funding vs Stability → Comparison of companies with high funding but still high layoffs.
 - Trend Overview → Rolling totals and monthly breakdowns showing when spikes occurred.
 
+```bash
 📂 Project Structure
 ├── data/                 # Raw dataset    
 ├── sql/                  # MySQL cleaning and analysis scripts   
@@ -64,6 +65,7 @@ The cleaned dataset was further explored in an IPython Notebook to generate visu
 ├── notebooks/            # Jupyter Notebooks for visualization   
 │   ├── layoffs_analysis.ipynb    
 ├── README.md             # Project documentation   
+```
 
 ## Conclusion
 
